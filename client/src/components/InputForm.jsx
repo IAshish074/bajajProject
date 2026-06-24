@@ -4,7 +4,7 @@ import SummaryCard from "./SummaryCard";
 import InvalidEntries from "./InvalidEntries";
 import DuplicateEdges from "./DuplicateEdges";
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5001/bfhl";
+const API_URL = import.meta.env.VITE_API_URL || "https://bajajproject-vt87.onrender.com/bfhl";
 
 function InputForm() {
   const [input, setInput] = useState("");

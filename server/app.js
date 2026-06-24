@@ -15,6 +15,14 @@ app.use(
 
 app.use(express.json());
 
+// Root path health check for Render deployment
+app.get("/", (req, res) => {
+  res.status(200).json({
+    status: "healthy",
+    message: "Server is running",
+  });
+});
+
 app.use("/bfhl", bfhlRoutes);
 
 export default app;
