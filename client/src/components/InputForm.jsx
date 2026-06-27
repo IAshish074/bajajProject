@@ -93,7 +93,7 @@ function InputForm() {
 
           {response && (
             <span className="text-xs text-slate-400 font-mono">
-              Roll No: 2311981128
+              Roll No: {response.college_roll_number}
             </span>
           )}
         </div>
