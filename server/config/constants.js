@@ -1,5 +1,5 @@
 export const USER_DETAILS = {
-  user_id: "ayushtandon_14032005",
-  email_id: "ayush1148.be23@chitkarauniversity.edu.in",
-  college_roll_number: "2311981148",
+  user_id: "ashish_09012004",
+  email_id: "ashish1128.be23@chitkarauniversity.edu.in",
+  college_roll_number: "2311981128",
 };
