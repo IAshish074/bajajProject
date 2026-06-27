@@ -5,6 +5,7 @@ A full-stack MERN application built for the Chitkara Full Stack Engineering Chal
 ## Live Demo
 
 **Frontend URL:** https://bajaj-project-ashen-eight.vercel.app/
+**Backend URL: ** https://bajajproject-vt87.onrender.com/
 
 ## Overview
 
